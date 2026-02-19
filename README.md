@@ -1,1 +1,1 @@
-## This repo is for Jiayue Shi's DB Assgnment 3.
+## This repo is for Jiayue Shi's DB Assignment 3.
